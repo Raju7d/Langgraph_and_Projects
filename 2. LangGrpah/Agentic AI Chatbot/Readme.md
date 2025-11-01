@@ -6,3 +6,4 @@
 
 4. chatbot_multiple_tools.ipynb
 
+5. CREATE TAVILY API KEY FROM https://app.tavily.com/home
